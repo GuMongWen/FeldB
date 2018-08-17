@@ -1,4 +1,3 @@
 # FeldB
-Author: WRB;
-
+Author: WRB
 Statistical alograithms for data analysis related to molecular electronics
